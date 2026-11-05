@@ -1,0 +1,4 @@
+Lege hier deine Staffel-Logos ab, am besten als .webp und unter etwa 300 KB pro Bild.
+Kostenlos umwandeln und verkleinern: squoosh.app (läuft im Browser).
+Dateinamen ohne Leerzeichen und Umlaute, z. B. staffel-1.webp
+In daten.js trägst du dann ein:  logo: "logos/staffel-1.webp"
