@@ -1,0 +1,1 @@
+Skin-PNGs hier ablegen (64x64 von NameMC: Profil öffnen → Skin → Download) und in daten.js unter skins eintragen.

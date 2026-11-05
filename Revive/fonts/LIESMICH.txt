@@ -1,0 +1,1 @@
+Lege hier die zwei Schriftdateien ab: vt323.woff2 und exo2.woff2 (siehe ANLEITUNG.md, Schritt 0).
