@@ -1,0 +1,4 @@
+Lege hier deine Screenshots ab, am besten als .webp und unter etwa 300 KB pro Bild.
+Kostenlos umwandeln und verkleinern: squoosh.app (läuft im Browser).
+Dateinamen ohne Leerzeichen und Umlaute, z. B. nordmark-mauer.webp
+In daten.js trägst du dann ein:  bild: "bilder/nordmark-mauer.webp"
