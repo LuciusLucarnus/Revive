@@ -1,1 +1,0 @@
-Bilder zu den Presseartikeln hier ablegen (WebP, unter ca. 300 KB). Dateinamen stehen als Vorschlag in daten.js hinter jedem Artikel.
